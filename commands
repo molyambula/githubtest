@@ -14,8 +14,8 @@ git add
 - добавить изменения файликов для коммита
 
 
-git commit
-- создать коммит
+git commit --message
+- создать коммит с сообщением
 
 
 git commit --amend
