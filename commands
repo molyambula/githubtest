@@ -14,8 +14,8 @@ git add
 - добавить изменения файликов для коммита
 
 
-git commit
-- создать коммит
+git commit --message
+- создать коммит с сообщением
 
 
 git commit --amend
@@ -28,3 +28,7 @@ git push origin master:master
 
 git clone
 - склонировать чей-то репозиторий к себе на кампуктер
+
+
+git merge
+- соединить две ветки
